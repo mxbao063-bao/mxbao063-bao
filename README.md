@@ -30,9 +30,9 @@ I am an independent automation builder based in China. I keep first versions nar
 
 ## Portfolio
 
-- `ai-report-agent`: turns CSV/Excel data into an executive summary.
-- `github-issue-triage-bot`: labels issues and drafts maintainer-friendly replies.
-- `web-data-cleaner`: extracts public web data into clean CSV/JSON.
+- [`ai-report-agent`](https://github.com/mxbao063-bao/ai-report-agent): turns CSV/Excel data into an executive summary.
+- [`github-issue-triage-bot`](https://github.com/mxbao063-bao/github-issue-triage-bot): labels issues and drafts maintainer-friendly replies.
+- [`web-data-cleaner`](https://github.com/mxbao063-bao/web-data-cleaner): extracts public web data into clean CSV/JSON.
 
 ## How I Work
 

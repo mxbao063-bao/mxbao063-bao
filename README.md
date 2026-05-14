@@ -2,6 +2,8 @@
 
 I turn messy CSV files, GitHub issues, and public web data into useful automation in 48 hours.
 
+Available for fixed-scope paid automation tasks. Best first task: one small script, workflow, or report automation with clear input and output.
+
 I am an independent automation builder based in China. I keep first versions narrow: clear input, clear output, demo command, README, and one review pass.
 
 ## What I Can Build Fast

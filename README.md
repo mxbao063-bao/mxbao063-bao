@@ -36,6 +36,12 @@ I am an independent automation builder based in China. I keep first versions nar
 - [`github-issue-triage-bot`](https://github.com/mxbao063-bao/github-issue-triage-bot): labels issues and drafts maintainer-friendly replies.
 - [`web-data-cleaner`](https://github.com/mxbao063-bao/web-data-cleaner): extracts public web data into clean CSV/JSON.
 
+## Recent Open Source Work
+
+- Merged: [`proompteng/bilig` PR #402](https://github.com/proompteng/bilig/pull/402), a Next.js Server Action validation smoke example.
+- Merged: [`proompteng/bilig` PR #405](https://github.com/proompteng/bilig/pull/405), a SQLite persistence adapter example for WorkPaper JSON state.
+- Accepted on main: [`proompteng/bilig` PR #373](https://github.com/proompteng/bilig/pull/373), a malformed CSV smoke test applied by the maintainer.
+
 ## How I Work
 
 1. Confirm the expected result.
